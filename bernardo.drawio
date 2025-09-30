@@ -67,17 +67,38 @@
         <mxCell id="sCSogcWtBrifQIEvKbz6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sCSogcWtBrifQIEvKbz6-9" target="sCSogcWtBrifQIEvKbz6-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCSogcWtBrifQIEvKbz6-21" target="uobMqMX6p_qXDJdeGJhh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sCSogcWtBrifQIEvKbz6-21" value="Ele ativa outros robôs e começa uma revolução" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sCSogcWtBrifQIEvKbz6-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCSogcWtBrifQIEvKbz6-22" target="uobMqMX6p_qXDJdeGJhh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCSogcWtBrifQIEvKbz6-22" value="Ele ganha mas fica ferido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sCSogcWtBrifQIEvKbz6-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="sCSogcWtBrifQIEvKbz6-23" value="Ele consegue e vive normalmente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="590" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCSogcWtBrifQIEvKbz6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sCSogcWtBrifQIEvKbz6-18" target="sCSogcWtBrifQIEvKbz6-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uobMqMX6p_qXDJdeGJhh-1" target="uobMqMX6p_qXDJdeGJhh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-1" value="ir embora" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uobMqMX6p_qXDJdeGJhh-3" target="uobMqMX6p_qXDJdeGJhh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-3" value="para a revoluçao e fugir de la" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uobMqMX6p_qXDJdeGJhh-5" value="Viver sem saber quem o criou mas esta felizzz.." style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
